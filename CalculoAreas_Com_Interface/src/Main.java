@@ -6,7 +6,7 @@ public class Main {
 
     public static void main(String[] args) {
         int option;
-        GeometricForm geometricForm = null;
+        GeometricForm geometricForm;
 
         while (true) {
             System.out.println("Escolha a forma geometrica para calcular a árae");
